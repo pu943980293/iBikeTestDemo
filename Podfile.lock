@@ -1,0 +1,16 @@
+PODS:
+  - iBikeKit (0.1.0)
+
+DEPENDENCIES:
+  - iBikeKit (from `TestModule/iBikeKit`)
+
+EXTERNAL SOURCES:
+  iBikeKit:
+    :path: TestModule/iBikeKit
+
+SPEC CHECKSUMS:
+  iBikeKit: e82d62aa3cd810a6b742ee34fc2b0ec601ce606c
+
+PODFILE CHECKSUM: f9cc28fdcaee4c31c90680df0d3641adb41bde4b
+
+COCOAPODS: 1.5.3
